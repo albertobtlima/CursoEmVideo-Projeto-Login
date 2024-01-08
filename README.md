@@ -1,4 +1,4 @@
 # projeto-login
-Curso em Video -Projeto Login
+Curso em Video - Projeto Login
 
-Projeto de criação de site do Curso em Video 
+Site criado durante o curso de HTML5 e CSS3
